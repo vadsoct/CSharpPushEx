@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\victors\\Desktop\\C# Intermediario\\Contratos\\contratos.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
