@@ -1,4 +1,4 @@
-namespace Contratos.Entities.Enums
+namespace PushEx.Entities.Enums
 {
     enum WorkerLevel : int
     {

@@ -1,8 +1,8 @@
-using Contratos.Entities.Enums;
-using Contratos.Entities;
+using PushEx.Entities.Enums;
+using PushEx.Entities;
 using System.Collections.Generic;
 
-namespace Contratos.Entities
+namespace PushEx.Entities
 
 {
     class Worker

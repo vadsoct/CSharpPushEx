@@ -1,4 +1,4 @@
-namespace Contratos.Entities
+namespace PushEx.Entities
 {
     class Departament
     {

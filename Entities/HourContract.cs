@@ -1,6 +1,6 @@
 using System;
 
-namespace Contratos.Entities
+namespace PushEx.Entities
 {
     class  HourContract
     {

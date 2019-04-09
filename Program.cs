@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
-using Contratos.Entities.Enums;
-using Contratos.Entities;
+using PushEx.Entities.Enums;
+using PushEx.Entities;
 
-namespace contratos
+namespace PushEx
 {
     class Program
     {
