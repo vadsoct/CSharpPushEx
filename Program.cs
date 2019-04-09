@@ -9,12 +9,12 @@ namespace contratos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter departament1s name: ");
+            Console.WriteLine("Enter departament's name: ");
             string deptName = Console.ReadLine();
             Console.WriteLine("Enter worker data: ");
             Console.WriteLine("Name: ");
             string name = Console.ReadLine();
-            Console.Write("Level (junior/MidLevel/Senior): ");
+            Console.Write("Level (Junior/MidLevel/Senior): ");
             WorkerLevel level = Enum.Parse<WorkerLevel>(Console.ReadLine());
             System.Console.WriteLine("Base Salary: ");
             double baseSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -44,10 +44,7 @@ namespace contratos
             int year = int.Parse(monthAndYear.Substring(3));
             System.Console.WriteLine("Name: " + worker.Name);
             System.Console.WriteLine("Departament: " + worker.Departament.Name);
-            System.Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year,month));
-            
-
-
+            System.Console.WriteLine("Income for " + monthAndYear + ": " + worker.Income(year,month).ToString("F2",CultureInfo.InvariantCulture));
         }
     }
 }
