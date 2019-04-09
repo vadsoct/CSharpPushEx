@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victors\\Desktop\\C# Intermediario\\contratos\\contratos.csproj",
-      "projectName": "contratos",
-      "projectPath": "C:\\Users\\victors\\Desktop\\C# Intermediario\\contratos\\contratos.csproj",
+      "projectUniqueName": "C:\\Users\\victors\\Desktop\\C# Intermediario\\PushEx\\PushEx.csproj",
+      "projectName": "PushEx",
+      "projectPath": "C:\\Users\\victors\\Desktop\\C# Intermediario\\PushEx\\PushEx.csproj",
       "packagesPath": "C:\\Users\\victors\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victors\\Desktop\\C# Intermediario\\contratos\\obj\\",
+      "outputPath": "C:\\Users\\victors\\Desktop\\C# Intermediario\\PushEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
