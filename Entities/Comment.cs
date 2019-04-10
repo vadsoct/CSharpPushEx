@@ -1,4 +1,4 @@
-namespace PushEx
+namespace PushEx.Entities
 {
     class Comment
     {
@@ -12,9 +12,6 @@ namespace PushEx
         {
             Text = text;
         } 
-
-
     }
-
 }
 

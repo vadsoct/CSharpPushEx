@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
+using PushEx.Entities;
 
 namespace PushEx
 {
@@ -10,7 +11,7 @@ namespace PushEx
         public string Title { get; set; }
         public string Content { get; set; }
         public int Likes { get; set; }
-        public List <Comment> Coments { get; set; } = new List<Comment>();
+        public List <Comment> Comments { get; set; } = new List<Comment>();
 
         public Post()
         {
@@ -22,6 +23,16 @@ namespace PushEx
             Title = title;
             Content = content;
             Likes = likes;
+        }
+
+        public void AddComment(Comment comment)
+        {
+            Comments.Add(comment);
+        }
+
+        public void RemoveComment(Comment comment)
+        {
+            Comments.Remove(comment);
         }
     }
 }
