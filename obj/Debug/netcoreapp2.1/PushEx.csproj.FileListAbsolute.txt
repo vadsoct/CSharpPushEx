@@ -2,3 +2,10 @@ C:\Users\victors\Desktop\C# Intermediario\PushEx\obj\Debug\netcoreapp2.1\PushEx.
 C:\Users\victors\Desktop\C# Intermediario\PushEx\obj\Debug\netcoreapp2.1\PushEx.csproj.CoreCompileInputs.cache
 C:\Users\victors\Desktop\C# Intermediario\PushEx\obj\Debug\netcoreapp2.1\PushEx.AssemblyInfoInputs.cache
 C:\Users\victors\Desktop\C# Intermediario\PushEx\obj\Debug\netcoreapp2.1\PushEx.AssemblyInfo.cs
+C:\Users\victors\Desktop\C# Intermediario\PushEx\bin\Debug\netcoreapp2.1\PushEx.deps.json
+C:\Users\victors\Desktop\C# Intermediario\PushEx\bin\Debug\netcoreapp2.1\PushEx.runtimeconfig.json
+C:\Users\victors\Desktop\C# Intermediario\PushEx\bin\Debug\netcoreapp2.1\PushEx.runtimeconfig.dev.json
+C:\Users\victors\Desktop\C# Intermediario\PushEx\bin\Debug\netcoreapp2.1\PushEx.dll
+C:\Users\victors\Desktop\C# Intermediario\PushEx\bin\Debug\netcoreapp2.1\PushEx.pdb
+C:\Users\victors\Desktop\C# Intermediario\PushEx\obj\Debug\netcoreapp2.1\PushEx.dll
+C:\Users\victors\Desktop\C# Intermediario\PushEx\obj\Debug\netcoreapp2.1\PushEx.pdb
