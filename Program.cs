@@ -30,7 +30,7 @@ namespace PushEx
                 p2.AddComment(c4);
                 
                 System.Console.WriteLine(p1);
-                System.Console.WriteLine();
+                System.Console.WriteLine(p2);
         }
     }
 }
